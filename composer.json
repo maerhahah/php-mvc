@@ -1,0 +1,22 @@
+{
+    "name": "microFrame PHP",
+    "type": "framework",
+    "description": "lightest PHP  framework",
+    "keywords": ["PHP", "PHP framework"],
+
+    "require": {
+        "php": ">=5.6.0",
+        "filp/whoops": "*",
+        "symfony/var-dumper": "*",
+        "catfan/medoo": "*",
+        "twig/twig": "*",
+        "phpoffice/phpexcel": "*",
+        "phpmailer/phpmailer": "*"
+    },
+    "reponsitories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
